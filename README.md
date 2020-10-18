@@ -9,12 +9,12 @@ For the purposes of this project, data on loans granted through the Lending Club
 1. Data Processing
 2. EDA. Describe the conclusions of each plot, and support your hypotheses with statistical tests such as t-test or Chi-square.
 Additionally, answer the following questions: 
-  a. How does the FICO score relate to the borrower's probability of repaying the loan? 
-  b. How is the credit age related to the probability of default and is this risk independent or related to the FICO score? 
-  c. How is the home mortgage status related to the likelihood of default? 
-  d. How is your annual income related to the probability of default? 
-  e. How is your employment history related to the probability of default? 
-  f. How is the size of the requested loan related to the probability of default?
+a. How does the FICO score relate to the borrower's probability of repaying the loan? 
+b. How is the credit age related to the probability of default and is this risk independent or related to the FICO score? 
+c. How is the home mortgage status related to the likelihood of default? 
+d. How is your annual income related to the probability of default? 
+e. How is your employment history related to the probability of default?
+f. How is the size of the requested loan related to the probability of default?
 
 3. Feature Engineering - create 20 new variables
 4. Modeling
